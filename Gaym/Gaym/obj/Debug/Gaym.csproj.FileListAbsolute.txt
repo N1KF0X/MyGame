@@ -1,0 +1,10 @@
+C:\Users\Nikita\source\repos\Gaym\Gaym\bin\Debug\Gaym.exe.config
+C:\Users\Nikita\source\repos\Gaym\Gaym\bin\Debug\Gaym.exe
+C:\Users\Nikita\source\repos\Gaym\Gaym\bin\Debug\Gaym.pdb
+C:\Users\Nikita\source\repos\Gaym\Gaym\obj\Debug\Gaym.csproj.AssemblyReference.cache
+C:\Users\Nikita\source\repos\Gaym\Gaym\obj\Debug\Gaym.Form1.resources
+C:\Users\Nikita\source\repos\Gaym\Gaym\obj\Debug\Gaym.Properties.Resources.resources
+C:\Users\Nikita\source\repos\Gaym\Gaym\obj\Debug\Gaym.csproj.GenerateResource.cache
+C:\Users\Nikita\source\repos\Gaym\Gaym\obj\Debug\Gaym.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\Gaym\Gaym\obj\Debug\Gaym.exe
+C:\Users\Nikita\source\repos\Gaym\Gaym\obj\Debug\Gaym.pdb
